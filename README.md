@@ -1,5 +1,3 @@
-Here's the updated README.md with information on using an Azure Virtual Machine (VM) for hosting:
-
 # Discord Status Bot
 
 A Python-based tool to update the status and custom presence of multiple Discord accounts. This script leverages Discord's WebSocket gateway for real-time status updates.
